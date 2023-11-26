@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafi
 #### Student
-![Student]([https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/136992675_2883954725214096_3985497283808841728_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=7f8c78&_nc_eui2=AeG14DUxEWGLjrANyYsu1iPPn9fINUn5Hg-f18g1SfkeD29PkfHvEWJImKh0NfF_I1-muKCpWRydwa79uAnrQakj&_nc_ohc=mMWqEaiE6xEAX-V8zsu&_nc_ht=scontent.fdac13-1.fna&oh=00_AfAzFqnvIuaLotYouG6vV5p5vb76eG3fDCv2CQBJ_NN1Cg&oe=658A0779](https://photos.fife.usercontent.google.com/pw/ADCreHc7ltMXW4XQAVulVyI2AefWtVv4GbbRL0gg1LW6u0GyUlil7S5xGgfB=w1920-h576-s-no-gm?authuser=0))
+![Student]([https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/136992675_2883954725214096_3985497283808841728_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=7f8c78&_nc_eui2=AeG14DUxEWGLjrANyYsu1iPPn9fINUn5Hg-f18g1SfkeD29PkfHvEWJImKh0NfF_I1-muKCpWRydwa79uAnrQakj&_nc_ohc=mMWqEaiE6xEAX-V8zsu&_nc_ht=scontent.fdac13-1.fna&oh=00_AfAzFqnvIuaLotYouG6vV5p5vb76eG3fDCv2CQBJ_NN1Cg&oe=658A0779](https://photos.fife.usercontent.google.com/pw/ADCreHc7ltMXW4XQAVulVyI2AefWtVv4GbbRL0gg1LW6u0GyUlil7S5xGgfB=w1920-h576-s-no-gm?authuser=0).
 
 I'm a passionate and curious student on a journey to explore the vast world of technology and learn something new every day. Currently pursuing Hon's at Jagannath University, I thrive on challenges that push me to expand my horizons.
 
