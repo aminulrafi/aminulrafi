@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafi
 #### Student
-![Student](https://arturssmirnovs.github.io/github-profile-rehttps://photos.fife.usercontent.google.com/pw/ADCreHc7ltMXW4XQAVulVyI2AefWtVv4GbbRL0gg1LW6u0GyUlil7S5xGgfB=w1920-h576-s-no-gm?authuser=0adme-generator/images/banner.png)
+![Student](https://media.licdn.com/dms/image/D4D16AQHyVw10krsyWA/profile-displaybackgroundimage-shrink_350_1400/0/1700992839900?e=1706745600&v=beta&t=xfNbD3OKABF1WDos99lad9mvGDGzPXll20oqAMRhJmk)
 
 I'm a passionate and curious student on a journey to explore the vast world of technology and learn something new every day. Currently pursuing Hon's at Jagannath University, I thrive on challenges that push me to expand my horizons.
 
